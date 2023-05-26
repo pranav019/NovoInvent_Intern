@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.sec-1 {
+  background-color: antiquewhite;
+  height: 10vh;
+  margin-bottom: 10px;
+  padding: 8px;
+}
+.sec2 {
+  height: 30vh;
+  background-color: rgb(31, 31, 206);
+  margin-bottom: 10px;
+  padding: 8px;
+}
+
+.gc1 {
+  display: grid;
+  grid-template-columns: 2fr 3fr 5fr 2fr;
+  grid-template-rows: 40vh;
+  gap: 10px;
+  margin-bottom: 5px;
+}
+.sec-3 {
+  background-color: rgb(235, 231, 231);
+  padding: 8px;
+}
+
+.sec-4 {
+  background-color: rgb(242, 181, 127);
+  padding: 8px;
+}
+
+.sec-5 {
+  background-color: rgb(53, 140, 246);
+  padding: 8px;
+}
+.gc2 {
+  display: grid;
+  grid-template-columns: 2fr 3fr 5fr 2fr;
+  grid-template-rows: 60vh;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.igc2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 5px;
+  /* margin-bottom: 5px; */
+}
+
+.sec-8 {
+  background-color: teal;
+  padding: 8px;
+}
+
+.sec-9 {
+  padding: 8px;
+  background-color: rgb(245, 184, 131);
+}
+
+.gc3 {
+  display: grid;
+  grid-template-columns: 1fr 10fr 1fr;
+  grid-template-rows: 60vh;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.igc3 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 3fr 1fr;
+  gap: 10px;
+  /* margin-bottom: 10px; */
+}
+
+.sec-17 {
+  background-color: rgb(10, 185, 185);
+  padding: 8px;
+}
+.sec-22 {
+  background-color: rgb(248, 127, 127);
+  padding: 8px;
+}

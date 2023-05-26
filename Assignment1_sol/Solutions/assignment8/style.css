@@ -1,0 +1,77 @@
+.m0 {
+  margin: 0;
+  padding: 0;
+}
+
+.sec-1 {
+  background-color: rgb(248, 217, 196);
+  height: 10vh;
+  margin-bottom: 5px;
+  padding: 8px;
+}
+
+.gc1 {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  grid-template-rows: 40vh;
+  gap: 10px;
+  margin-bottom: 5px;
+}
+
+.sec-2 {
+  background-color: rgb(67, 193, 239);
+  padding: 8px;
+}
+.sec-3 {
+  background-color: rgb(16, 16, 214);
+  padding: 8px;
+}
+
+.gc2 {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  grid-template-rows: 40vh;
+  gap: 10px;
+  margin-bottom: 5px;
+}
+
+.igc2 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 1fr 2fr 1fr;
+  gap: 5px;
+}
+.sec-4 {
+  background-color: rgb(10, 171, 171);
+  padding: 8px;
+}
+.sec-8 {
+  background-color: rgb(245, 179, 122);
+  padding: 8px;
+}
+.sec-7 {
+  background-color: teal;
+  padding: 8px;
+}
+.gc3 {
+  display: grid;
+  grid-template-columns: 1fr 3.07fr;
+  grid-template-rows: 40vh;
+  gap: 5px;
+  margin-bottom: 5px;
+}
+.sec-14 {
+  background-color: rgb(214, 84, 37);
+  padding: 8px;
+}
+.sec-15 {
+  background-color: rgb(247, 193, 145);
+  /* margin-right: 10px; */
+  padding: 8px;
+}
+
+.sec-16 {
+  background-color: rgb(232, 219, 207);
+  height: 10vh;
+  padding: 8px;
+}
